@@ -9,4 +9,4 @@
 
 ![Na._.ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanioi&show_icons=true&theme=buefy)
 
-[![Solved.ac Nanioi](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skdus0802)](https://solved.ac/{handle})
