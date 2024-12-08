@@ -1,6 +1,10 @@
 ## Nanioi
-##### 변화를 두려워하지 않는 개발자, 곽나연입니다.
 
+#### Introduction
+- 안녕하세요! 3년차 주니어 안드로이드 개발자, 곽나연입니다.
+- 개발에 푹 빠져 성장하는 즐거움을 느끼고있습니다.
+
+  
 ### My Skills & Tools 🛠
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
