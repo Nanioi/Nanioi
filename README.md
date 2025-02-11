@@ -2,6 +2,7 @@
 - 안녕하세요! 4년차 주니어 안드로이드 개발자, 곽나연입니다.
 - 개발에 푹 빠져 성장하는 즐거움을 느끼고있습니다.
 
+### [ 이력서 및 포트폴리오 보러가기 ➡️ ](https://www.canva.com/design/DAGchcKa12c/26ejGFxHkhnm9mMlIkQNGg/edit?utm_content=DAGchcKa12c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
 ### My Skills & Tools 🛠
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
