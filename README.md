@@ -7,7 +7,7 @@
 - 함께 고민하고 같이 발전해 나아가는 것을 좋아합니다.
 
 
-##### [ 이력서 및 포트폴리오 보러가기 ➡️ ](https://www.canva.com/design/DAGchcKa12c/26ejGFxHkhnm9mMlIkQNGg/edit?utm_content=DAGchcKa12c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+#### [ 이력서 및 포트폴리오 보러가기 ➡️ ](https://www.canva.com/design/DAGchcKa12c/26ejGFxHkhnm9mMlIkQNGg/edit?utm_content=DAGchcKa12c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
 ### My Skills & Tools 🛠
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
